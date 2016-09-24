@@ -56,4 +56,4 @@ its the same only it included a jackpot game i made:
 <div class="post_footer clearfix" data-subview="footer"></div>
 Download the software:
 <p style="padding-left: 180px;"><a href="https://dl.dropboxusercontent.com/u/49200304/Big_Red_Button_ver_2.rar">More functions version 2</a>
-<a href="https://dl.dropboxusercontent.com/u/49200304/Big_Red_Button_ver_3.rar">Version 3 only a counter</a></p>
+<a href="https://dl.dropboxusercontent.com/u/49200304/Big_Red_Button_ver_3.rar">Version 3 Jackpot Game</a></p>
