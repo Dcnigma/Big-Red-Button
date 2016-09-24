@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E28813ED-5CCF-4BEC-8DFE-04B2952AE345}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Big_Red_Button_ver_3.My.MyApplication</StartupObject>
+    <RootNamespace>Big_Red_Button_ver_3</RootNamespace>
+    <AssemblyName>Big_Red_Button_ver_3</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Big_Red_Button_ver_3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Big_Red_Button_ver_3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Treetog-Junior-Help.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alarm.Designer.vb">
+      <DependentUpon>Alarm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alarm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boom.Designer.vb">
+      <DependentUpon>Boom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Boom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credits.Designer.vb">
+      <DependentUpon>Credits.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Credits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="game1.Designer.vb">
+      <DependentUpon>game1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="game1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MouseDetector.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Punch_1.Designer.vb">
+      <DependentUpon>Punch_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Punch_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wait_Function.vb" />
+    <Compile Include="Website.Designer.vb">
+      <DependentUpon>Website.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Website.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Working.Designer.vb">
+      <DependentUpon>Working.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Working.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Alarm.resx">
+      <DependentUpon>Alarm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boom.resx">
+      <DependentUpon>Boom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credits.resx">
+      <DependentUpon>Credits.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="game1.resx">
+      <DependentUpon>game1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Punch_1.resx">
+      <DependentUpon>Punch_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Website.resx">
+      <DependentUpon>Website.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Working.resx">
+      <DependentUpon>Working.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad148aaa-605d-4478-97ab-6089ebc3f1d1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mask3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-102.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-105.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-107.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-108.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effect-111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mask2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mask0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BH_background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\98824.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bam-retro-tattoo-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bam3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\591img_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pow1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comic-pow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foot print action 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foot print action 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foot print action.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footprint-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footprint-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbugimage1.jpg" />
+    <None Include="Resources\telenet-nieuw-logo-e1411206028782.jpg" />
+    <None Include="Resources\bgh.PNG" />
+    <None Include="Resources\logo.PNG" />
+    <None Include="Resources\playtimemore.png" />
+    <None Include="Resources\Telenet_be_whoppa_mainimage.jpg" />
+    <None Include="Resources\logo1.PNG" />
+    <None Include="Resources\13729.png" />
+    <None Include="Resources\20120731024244.png" />
+    <None Include="Resources\slots-inferno-jackpot-casino.png" />
+    <None Include="Resources\Jackpot_slot.jpg" />
+    <None Include="Resources\Jackpot_slot1.jpg" />
+    <Content Include="Treetog-Junior-Help.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

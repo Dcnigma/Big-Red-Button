@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Big_Red_Button_ver_2
+</name>
+</assembly>
+<members>
+<member name="P:Big_Red_Button_ver_2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources._591img_20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources._98824">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.ad148aaa_605d_4478_97ab_6089ebc3f1d1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.bam_retro_tattoo_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.bam3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.bgh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.BH_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.boss">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.Comic_pow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_002">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_101">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_102">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_103">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_104">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_105">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_106">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_107">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_108">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_109">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_110">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.effect_111">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.foot_print_action">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.foot_print_action_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.foot_print_action_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.footprint_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.footprint_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.logo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.mask0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.mask2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.mask3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.playtimemore">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.pow1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.tbugimage1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.Telenet_be_whoppa_mainimage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Big_Red_Button_ver_2.My.Resources.Resources.telenet_nieuw_logo_e1411206028782">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Big_Red_Button_ver_2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

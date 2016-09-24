@@ -1,0 +1,45 @@
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.exe
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.pdb
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.xml
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Form1.resources
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Resources.resources
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.vbproj.GenerateResource.Cache
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.exe
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.xml
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.pdb
+C:\Users\main\AppData\Local\Temporary Projects\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Boom1.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.exe
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.pdb
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.xml
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Boom1.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Form1.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Resources.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.vbproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.exe
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.xml
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.pdb
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Punch_1.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Website.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Credits.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Working.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_2.exe.config
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Alarm.resources
+F:\Documents\Visual Studio 2010\Projects\redbutton\Redbutton_Ver2\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.Settings.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_3.exe.config
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_3.exe
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_3.pdb
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\bin\Debug\Big_Red_Button_ver_3.xml
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Alarm.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Boom1.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Credits.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Form1.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.game1.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Resources.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Punch_1.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Settings.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Website.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.Working.resources
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_2.vbproj.GenerateResource.Cache
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.exe
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.xml
+F:\documents\Visual Studio 2010\Projects\Redbutton_Ver3\Big_Red_Button_ver_2\Big_Red_Button_ver_2\obj\x86\Debug\Big_Red_Button_ver_3.pdb
